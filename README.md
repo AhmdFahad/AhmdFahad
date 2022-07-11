@@ -1,19 +1,19 @@
 # Hi there 👋
 
-###i am Ahemd Fahad Abu Hamdah😇
+### i am Ahemd Fahad Abu Hamdah😇
 
-###hard worker,passionate computer science student,💻
+### hard worker,passionate computer science student,💻
 
-###I love exploring and learning new technology📖 
-
-
-##↘️⬇️
-
-##➡️~~[🎓](https://ahmadfahad.notion.site/Ahmed-dd0e32ac744743e8b29c12b9cabc3550)~~
-
-##↗️⬆️
+### I love exploring and learning new technology📖 
 
 
+## ↘️⬇️
+
+## ➡️[🎓](https://ahmadfahad.notion.site/Ahmed-dd0e32ac744743e8b29c12b9cabc3550)
+
+## ↗️⬆️
+
+- 🔭 I’m currently working on secret project
 
 <!--
 **AhmdFahad/AhmdFahad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
