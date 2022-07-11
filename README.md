@@ -1,10 +1,15 @@
-### Hi there 👋
+# Hi there 👋
 
+###i am Ahemd Fahad Abu Hamdah😇
+
+###hard worker,passionate computer science student,💻
+
+###I love exploring and learning new technology📖 
 
 
 ↘️⬇️
 
-➡️[🎓](https://ahmadfahad.notion.site/Ahmed-dd0e32ac744743e8b29c12b9cabc3550)
+➡️>[🎓](https://ahmadfahad.notion.site/Ahmed-dd0e32ac744743e8b29c12b9cabc3550)
 
 ↗️⬆️
 
