@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Fahad</h1>
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">software engineer</h3>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AhmdFahad&icon=5&color=0)](https://visitcount.itsvg.in)
