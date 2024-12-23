@@ -1,10 +1,20 @@
-<h1 align="center">Hi 👋, I'm Ahmad Fahad</h1>
-<h3 align="center">software engineer</h3>
+<h1 align="center">Ahmad Fahad Abu Hamdah</h1>
+<h3 align="center">Software Engineer | Backend & Cloud Specialist</h3>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AhmdFahad&icon=5&color=0)](https://visitcount.itsvg.in)
 
-i am workin in [ZahraHR](https://www.zahrahr.cloud/)
+I am a recent graduate, having completed my studies in July 2024 with a Bachelor’s degree in Computer Science. My journey in the tech field began in 2019, when I first started learning and developing my skills. Over the years, I have gained valuable experience in backend development, cloud engineering, and working with modern technologies such as Java, Spring Boot, React, Next.js, and cloud platforms like AWS and GCP. I have also gained hands-on experience in microservices architecture, DevOps practices, and working with databases such as PostgreSQL, MongoDB, and Elasticsearch.
+
+Throughout this time, I have been committed to continuous learning, tackling new challenges, and achieving professional growth. My passion for technology and problem-solving drives me to pursue excellence in every project I undertake. With my knowledge in RESTful API design, security frameworks like OAuth2 and JWT, and my experience in Agile methodologies, I am excited to contribute to innovative solutions and continue growing in the tech industry.
+
+## 🌐 Currently Working on
+I'm currently working on **[ZahraHR](https://www.zahrahr.cloud/)**, a cloud-based HR solution I work on in my spare time, aiming to transform how companies manage their workforce and human resources. 
+
+## 🔗 Connect with ZahraHR on LinkedIn
+[![ZahraHR LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/06/LinkedIn_Logo_2013.svg)](https://www.linkedin.com/company/zahrahr/about/)
+
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ahmdfahad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmdfahad" height="30" width="40" /></a>
