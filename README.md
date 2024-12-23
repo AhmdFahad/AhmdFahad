@@ -12,7 +12,7 @@ Throughout this time, I have been committed to continuous learning, tackling new
 I'm currently working on **[ZahraHR](https://www.zahrahr.cloud/)**, a cloud-based HR solution I work on in my spare time, aiming to transform how companies manage their workforce and human resources. 
 
 ## 🔗 Connect with ZahraHR on LinkedIn
-[![ZahraHR LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/06/LinkedIn_Logo_2013.svg)](https://www.linkedin.com/company/zahrahr/about/)
+[![ZahraHR LinkedIn]([https://upload.wikimedia.org/wikipedia/commons/0/06/LinkedIn_Logo_2013.svg](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg))](https://www.linkedin.com/company/zahrahr/about/)
 
 ---
 <h3 align="left">Connect with me:</h3>
