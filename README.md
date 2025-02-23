@@ -6,8 +6,7 @@
 
 I am a recent graduate, having completed my studies in July 2024 with a Bachelor’s degree in Computer Science. My journey in the tech field began in 2019, when I first started learning and developing my skills. Over the years, I have gained valuable experience in backend development, cloud engineering, and working with modern technologies such as Java, Spring Boot, React, Next.js, and cloud platforms like AWS and GCP. I have also gained hands-on experience in microservices architecture, DevOps practices, and working with databases such as PostgreSQL, MongoDB, and Elasticsearch.
 
-Throughout this time, I have been committed to continuous learning, tackling new challenges, and achieving professional growth. My passion for technology and problem-solving drives me to pursue excellence in every project I undertake. With my knowledge in RESTful API design, security frameworks like OAuth2 and JWT, and my experience in Agile methodologies, I am excited to contribute to innovative solutions and continue growing in the tech industry.
-
+Throughout this time, I have been committed to continuous learning, tackling new challenges, and achieving professional growth. My passion for technology and problem-solving drives me to pursue excellence in every project I undertake.
 ## 🌐 Currently Working on
 I'm currently working on **[ZahraHR](https://www.zahrahr.cloud/)**, a cloud-based HR solution I work on in my spare time, aiming to transform how companies manage their workforce and human resources. 
 
