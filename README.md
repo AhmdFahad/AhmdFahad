@@ -4,7 +4,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AhmdFahad&icon=5&color=0)](https://visitcount.itsvg.in)
 
-I am a recent graduate, having completed my studies in July 2024 with a Bachelor’s degree in Computer Science. My journey in the tech field began in 2019, when I first started learning and developing my skills. Over the years, I have gained valuable experience in backend development, cloud engineering, and working with modern technologies such as Java, Spring Boot, React, Next.js, and cloud platforms like AWS and GCP. I have also gained hands-on experience in microservices architecture, DevOps practices, and working with databases such as PostgreSQL, MongoDB, and Elasticsearch.
+ My journey in the tech field began in 2019, when I first started learning and developing my skills. Over the years, I have gained valuable experience in backend development, cloud engineering, and working with modern technologies such as Java, Spring Boot, React, Next.js, and cloud platforms like AWS and GCP. I have also gained hands-on experience in microservices architecture, DevOps practices, and working with databases such as PostgreSQL, MongoDB, and Elasticsearch.
 
 Throughout this time, I have been committed to continuous learning, tackling new challenges, and achieving professional growth. My passion for technology and problem-solving drives me to pursue excellence in every project I undertake.
 
