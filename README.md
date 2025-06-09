@@ -17,22 +17,19 @@ Throughout this time, I have been committed to continuous learning, tackling new
     <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cloud Practitioner" width="80"/>
   </a>
   <a href="https://www.credly.com/badges/07659ec5-b07e-4d13-b157-e53d66b0a327" target="_blank">
-    <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect – Associate" width="80"/>
+    <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect – Associate" width="80"/>
   </a>
-  <a href="https://www.credly.com/badges/3a2de6cc-58be-4a01-92f3-e028d373efb3/public_url" target="_blank">
-    <img src="https://images.credly.com/size/110x110/images/217b52e3-77e5-4e82-a53e-83106ef9786f/aws-certified-solutions-architect-professional.png" alt="AWS Solutions Architect – Professional" width="80"/>
+  <a href="https://www.credly.com/badges/95ce01ff-430d-4bfd-a3a1-545c4c2c59fc" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" alt="AWS Solutions Architect – Professional" width="80"/>
   </a>
-  <a href="https://www.credly.com/badges/cb5fc404-6075-4565-81ee-0302b2b9731b/public_url" target="_blank">
-    <img src="https://images.credly.com/size/110x110/images/2b5faba5-47da-4944-8cfd-4d3fbc2047e8/certified-kubernetes-application-developer-ckad.png" alt="CKAD" width="80"/>
+  <a href="https://www.credly.com/badges/d1f8096e-724a-4766-82b1-bd2e79b255c9" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="CKAD" width="80"/>
   </a>
-  <a href="https://www.credly.com/badges/bcd97e67-b1cf-4e55-9613-15259d0de040/public_url" target="_blank">
-    <img src="https://images.credly.com/size/110x110/images/3f046f1d-81b6-4fde-8b8f-cfc2a71c1a54/certified-kubernetes-security-specialist-cksa.png" alt="KCSA" width="80"/>
+  <a href="https://www.credly.com/badges/b627649f-9d54-43c9-bbb9-2475e3ef9009" target="_blank">
+    <img src="https://images.credly.com/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="KCNA" width="80"/>
   </a>
-  <a href="https://www.credly.com/badges/772e75b5-e2c6-45ed-98cb-08d21c9fc649/public_url" target="_blank">
-    <img src="https://images.credly.com/size/110x110/images/f88d800c-f84a-4c89-8c44-c6b5f3a7e0c7/certified-kubernetes-administrator-cka.png" alt="CKA" width="80"/>
-  </a>
-  <a href="https://www.credly.com/badges/9b21c8e6-4de2-44f9-b66d-fcc2f19ed27f/public_url" target="_blank">
-    <img src="https://images.credly.com/size/110x110/images/77ed2c18-16a2-403d-8657-883f4b3f34f5/kcna-kubernetes-and-cloud-native-associate.png" alt="KCNA" width="80"/>
+  <a href="https://www.credly.com/badges/5a20bf1f-e415-4e0a-b62d-cb483b451ec4" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png" alt="KCSA" width="80"/>
   </a>
 </p>
 
