@@ -13,11 +13,11 @@ Throughout this time, I have been committed to continuous learning, tackling new
 ## 🏅 Certifications
 
 <p align="left">
-  <a href="https://www.credly.com/badges/fc833c04-0c27-4bb8-a96e-87f59d7d883d/public_url" target="_blank">
-    <img src="https://images.credly.com/size/110x110/images/684b46b3-39f4-4c34-94b4-3c4fbb1eeba4/aws-certified-cloud-practitioner.png" alt="AWS Cloud Practitioner" width="80"/>
+  <a href="https://www.credly.com/badges/120c31a2-0e74-44f8-abf2-882599835d30" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cloud Practitioner" width="80"/>
   </a>
-  <a href="https://www.credly.com/badges/5c9f0b84-4f0b-4a3d-98b6-661c474bd234/public_url" target="_blank">
-    <img src="https://images.credly.com/size/110x110/images/0e1e40c6-00a3-4cb0-8d79-1c20d36b47e5/aws-certified-solutions-architect-associate.png" alt="AWS Solutions Architect – Associate" width="80"/>
+  <a href="https://www.credly.com/badges/07659ec5-b07e-4d13-b157-e53d66b0a327" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect – Associate" width="80"/>
   </a>
   <a href="https://www.credly.com/badges/3a2de6cc-58be-4a01-92f3-e028d373efb3/public_url" target="_blank">
     <img src="https://images.credly.com/size/110x110/images/217b52e3-77e5-4e82-a53e-83106ef9786f/aws-certified-solutions-architect-professional.png" alt="AWS Solutions Architect – Professional" width="80"/>
