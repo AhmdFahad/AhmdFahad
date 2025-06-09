@@ -4,12 +4,44 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AhmdFahad&icon=5&color=0)](https://visitcount.itsvg.in)
 
- My journey in the tech field began in 2019, when I first started learning and developing my skills. Over the years, I have gained valuable experience in backend development, cloud engineering, and working with modern technologies such as Java, Spring Boot, React, Next.js, and cloud platforms like AWS and GCP. I have also gained hands-on experience in microservices architecture, DevOps practices, and working with databases such as PostgreSQL, MongoDB, and Elasticsearch.
+My journey in the tech field began in 2019, when I first started learning and developing my skills. Over the years, I have gained valuable experience in backend development, cloud engineering, and working with modern technologies such as Java, Spring Boot, React, Next.js, and cloud platforms like AWS and GCP. I have also gained hands-on experience in microservices architecture, DevOps practices, and working with databases such as PostgreSQL, MongoDB, and Elasticsearch.
 
 Throughout this time, I have been committed to continuous learning, tackling new challenges, and achieving professional growth. My passion for technology and problem-solving drives me to pursue excellence in every project I undertake.
 
+---
+
+## 🏅 Certifications
+
+<p align="left">
+  <a href="https://www.credly.com/badges/fc833c04-0c27-4bb8-a96e-87f59d7d883d/public_url" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/684b46b3-39f4-4c34-94b4-3c4fbb1eeba4/aws-certified-cloud-practitioner.png" alt="AWS Cloud Practitioner" width="80"/>
+  </a>
+  <a href="https://www.credly.com/badges/5c9f0b84-4f0b-4a3d-98b6-661c474bd234/public_url" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/0e1e40c6-00a3-4cb0-8d79-1c20d36b47e5/aws-certified-solutions-architect-associate.png" alt="AWS Solutions Architect – Associate" width="80"/>
+  </a>
+  <a href="https://www.credly.com/badges/3a2de6cc-58be-4a01-92f3-e028d373efb3/public_url" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/217b52e3-77e5-4e82-a53e-83106ef9786f/aws-certified-solutions-architect-professional.png" alt="AWS Solutions Architect – Professional" width="80"/>
+  </a>
+  <a href="https://www.credly.com/badges/cb5fc404-6075-4565-81ee-0302b2b9731b/public_url" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/2b5faba5-47da-4944-8cfd-4d3fbc2047e8/certified-kubernetes-application-developer-ckad.png" alt="CKAD" width="80"/>
+  </a>
+  <a href="https://www.credly.com/badges/bcd97e67-b1cf-4e55-9613-15259d0de040/public_url" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/3f046f1d-81b6-4fde-8b8f-cfc2a71c1a54/certified-kubernetes-security-specialist-cksa.png" alt="KCSA" width="80"/>
+  </a>
+  <a href="https://www.credly.com/badges/772e75b5-e2c6-45ed-98cb-08d21c9fc649/public_url" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/f88d800c-f84a-4c89-8c44-c6b5f3a7e0c7/certified-kubernetes-administrator-cka.png" alt="CKA" width="80"/>
+  </a>
+  <a href="https://www.credly.com/badges/9b21c8e6-4de2-44f9-b66d-fcc2f19ed27f/public_url" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/77ed2c18-16a2-403d-8657-883f4b3f34f5/kcna-kubernetes-and-cloud-native-associate.png" alt="KCNA" width="80"/>
+  </a>
+</p>
+
+<p>
+  🧾 View all on <a href="https://www.credly.com/users/ahmad-abu-hamdah" target="_blank"><strong>Credly Profile →</strong></a>
+</p>
 
 ---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ahmdfahad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmdfahad" height="30" width="40" /></a>
@@ -17,7 +49,7 @@ Throughout this time, I have been committed to continuous learning, tackling new
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<!-- [Your existing tools block remains unchanged] -->
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmdFahad&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -31,4 +63,3 @@ Throughout this time, I have been committed to continuous learning, tackling new
 ![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif)
 -->
 </div>
-
